@@ -16,3 +16,10 @@
 
 ## Capturas
 *capturas del juego/simulación*
+
+----
+##Objetivos
+- Juego para colecciona Mostros que son memes o cosas parodicas.
+- Lo principar a hacer es: mapa, aparicion de los mostros y guardado en un archivo de los mostros coleccionados, lista de mostros en el menu.
+- Secundario es: Su evolucion, mapas adicionales donde aparezcan mostros especificos, combate 
+- Captura: Piedra papel o tijera (?) 3 vidas, con ganar 1 vez lo capturas.
