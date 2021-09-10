@@ -6,7 +6,8 @@
 
 ![octocat](https://github.com/brunocavazza.png?size=70) [Bruno Cavazza](https://github.com/brunocavazza)
 ![octocat](https://github.com/thiagosequeira.png?size=70) [Thiago Sequeira](https://github.com/thiagosequeira)
-![octocat](https://github.com/agustinragessi.png?size=70) [Agustin Ragessi](https://github.com/agustinragessi)
+![octocat](https://github.com/agustinragessi.png?size=40) [Agustin Ragessi](https://github.com/agustinragessi)
+
 ## Descripción:
 *breve descripción del proyecto*
 
