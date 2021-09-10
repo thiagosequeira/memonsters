@@ -4,7 +4,7 @@
 
 ### Integrantes:
 
-![octocat](https://github.com/octocat.png?size=70) [Octogato](https://github.com/octocat)
+![BC](https://imgur.com/StWhiqD.png?size=70) [Bruno Cavazza](https://github.com/BrunoCavazza)
 
 ## Descripción:
 *breve descripción del proyecto*
