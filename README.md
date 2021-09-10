@@ -4,7 +4,7 @@
 
 ### Integrantes:
 
-![BC](https://imgur.com/StWhiqD.png?size=70) [Bruno Cavazza](https://github.com/BrunoCavazza)
+![BC](?size=70) [Bruno Cavazza](https://github.com/BrunoCavazza)
 
 ## Descripción:
 *breve descripción del proyecto*
