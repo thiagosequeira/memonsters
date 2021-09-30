@@ -6,8 +6,6 @@
 | Fecha de elaboración        | -  |
 | Versión                     | -  |
 
-## **Memonsters**:
-
 **Descripción del juego**: (describir brevemente de que se trata el juego)
 
 **Descripción del jugador**: Nuestro juego va dirigido a cualquier persona. No nos limitamos a una edad ni mucho menos un genero. (Juego apto para todo publico.)
