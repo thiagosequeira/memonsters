@@ -11,7 +11,7 @@
 ![octocat](https://github.com/agustinragessi.png?size=70) [Agustin Ragessi](https://github.com/agustinragessi)
 
 ## Descripción:
-*breve descripción del proyecto*
+Memonsters es un juego de aventuras en 16-bits, basado en los antiguos Pokemon Red y Pokemon Blue. **Nombre** es un adolescente cuyo sueño es conquistar a todos los memonsters de su aldea, ayudalo en su aventura y consiguelos a todos! Podrás obtener a los 3 memonsters legendarios?
 
 ## Licencia de Assets utilizados
 *detalle de la URL, licencia y autor del asset utilizado.*
