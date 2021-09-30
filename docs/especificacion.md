@@ -6,7 +6,7 @@
 | Fecha de elaboración        | -  |
 | Versión                     | -  |
 
-**Descripción del juego**: (describir brevemente de que se trata el juego)
+**Descripción del juego**: Memonsters es un juego de aventuras en 16-bits, basado en los antiguos Pokemon Red y Pokemon Blue. Nombre es un adolescente cuyo sueño es conquistar a todos los memonsters de su aldea y así convertirse en el grán maestro de los memonsters, ayudalo en su aventura y consiguelos a todos! Podrás obtener a los 3 memonsters legendarios? 🤔
 
 **Descripción del jugador**: Nuestro juego va dirigido a cualquier persona. No nos limitamos a una edad ni mucho menos un genero. (Juego apto para todo publico.)
 
