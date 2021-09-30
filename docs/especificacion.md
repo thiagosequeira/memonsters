@@ -1,8 +1,8 @@
 # Título: Memonsters 👾🌄
 
 
-| Documento de Especificación |   |
-|-----------------------------|---|
+| Documento de Especificación      |
+|-----------------------------|----|
 | Fecha de elaboración        | -  |
 | Versión                     | -  |
 
