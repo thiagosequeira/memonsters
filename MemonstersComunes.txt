@@ -1,0 +1,67 @@
+Cantidad_Total: 13
+
+ID: 1
+Nombre: Sonic
+URL_Imagen: assets/imagenes/Memonsters/Sonic.png
+Descripcion: Seegaaaa
+
+ID: 2
+Nombre: Bob_Esponja
+URL_Imagen: assets/imagenes/Memonsters/BobEsPonja.png
+Descripcion: Es_Ponja
+
+ID: 3
+Nombre: snooty_boy
+URL_Imagen: assets/imagenes/Memonsters/SnootyBoy.png
+Descripcion: quien?
+
+ID: 4
+Nombre: Homero
+URL_Imagen: assets/imagenes/Memonsters/Homero.png
+Descripcion: Esta_grasa_no_se_quita!
+
+ID: 5
+Nombre: Trolleador_Cara
+URL_Imagen: assets/imagenes/Memonsters/TrolleadroCara.png
+Descripcion: Ah_sos_re_troll
+
+ID: 6
+Nombre: La_Roca
+URL_Imagen: assets/imagenes/Memonsters/LaRoca.png
+Descripcion: Pmmmmmmm!
+
+ID: 7
+Nombre: Dross
+URL_Imagen: assets/imagenes/Memonsters/Dross.png
+Descripcion: Mi_Libro...
+
+ID: 8
+Nombre: Misha
+URL_Imagen: assets/imagenes/Memonsters/Misha.png
+Descripcion: I_play_PokemonGo_everyday...
+
+ID: 9
+Nombre: Enano_De_Boca
+URL_Imagen: assets/imagenes/Memonsters/EnanoBoca.png
+Descripcion: Boca_yo_te_amo...
+
+ID: 10
+Nombre: doofenshmirtz
+URL_Imagen: assets/imagenes/Memonsters/Doofenshmirtz.png
+Descripcion: Perry?
+
+ID: 11
+Nombre: Pink_Guy
+URL_Imagen: assets/imagenes/Memonsters/PinkGuy.png
+Descripcion: Hey_Boss!
+
+ID: 12
+Nombre: Discord
+URL_Imagen: assets/imagenes/Memonsters/Discord.png
+Descripcion: Turup!
+
+ID: 13
+Nombre: CocaCola
+URL_Imagen: assets/imagenes/Memonsters/CocaCola.png
+Descripcion: Espumaa!
+

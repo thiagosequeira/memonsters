@@ -1,0 +1,37 @@
+Cantidad_Total: 7
+
+ID: 1
+Nombre: Sanic
+URL_Imagen: assets/imagenes/Memonsters/Sanic.png
+Descripcion: Gotta_Go_Fast
+
+ID: 2
+Nombre: Thanos
+URL_Imagen: assets/imagenes/Memonsters/Thanos.png
+Descripcion: No_seria_homicidio_si_fuera_al_azar...
+
+ID: 3
+Nombre: Titan
+URL_Imagen: assets/imagenes/Memonsters/Titan.png
+Descripcion: simp
+
+ID: 4
+Nombre: Diegote
+URL_Imagen: assets/imagenes/Memonsters/Diegote.png
+Descripcion: Eeeeeeeeeeeeeeeeeeeeeeee
+
+ID: 5
+Nombre: Alf
+URL_Imagen: assets/imagenes/Memonsters/Alf.png
+Descripcion: Tremendo_Rosarino
+
+ID: 6
+Nombre: Sans
+URL_Imagen: assets/imagenes/Memonsters/Sans.png
+Descripcion: E-E--E-E-E--E-E-E
+
+ID: 7
+Nombre: Doofenshmirtz_Anime
+URL_Imagen: assets/imagenes/Memonsters/DoofenshmirtzAnime.png
+Descripcion: Viva_cristo_rey
+

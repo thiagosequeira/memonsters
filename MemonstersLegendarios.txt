@@ -1,0 +1,17 @@
+Cantidad_Total: 3
+
+ID: 1
+Nombre: El_Comandante
+URL_Imagen: assets/imagenes/Memonsters/ElComandante.png
+Descripcion: Maiameeeeeeee!
+
+ID: 2
+Nombre: Shrek
+URL_Imagen: assets/imagenes/Memonsters/Shrek.png
+Descripcion: Somebody...
+
+ID: 3
+Nombre: Octane_Blanco_Titanio
+URL_Imagen: assets/imagenes/Memonsters/Octane.png
+Descripcion: Mas_caro_que_los_legos
+

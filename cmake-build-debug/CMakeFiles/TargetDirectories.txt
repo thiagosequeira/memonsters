@@ -1,0 +1,3 @@
+C:/memonsters-develop/memonsters-main/cmake-build-debug/CMakeFiles/proyecto.dir
+C:/memonsters-develop/memonsters-main/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/memonsters-develop/memonsters-main/cmake-build-debug/CMakeFiles/rebuild_cache.dir

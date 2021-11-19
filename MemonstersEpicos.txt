@@ -1,0 +1,27 @@
+Cantidad_Total: 5
+
+ID: 1
+Nombre: Messi_Chiquito
+URL_Imagen: assets/imagenes/Memonsters/MessiChiquito.png
+Descripcion: Messirve
+
+ID: 2
+Nombre: PandulC++
+URL_Imagen: assets/imagenes/Memonsters/PadulC.png
+Descripcion: El_Anion_PROFE!
+
+ID: 3
+Nombre: Ricado_Milos
+URL_Imagen: assets/imagenes/Memonsters/RicardoMilos.png
+Descripcion: U_got_that?
+
+ID: 4
+Nombre: Goku
+URL_Imagen: assets/imagenes/Memonsters/Goku.png
+Descripcion: ahhhhhhhh!!!!
+
+ID: 5
+Nombre: GigaChad
+URL_Imagen: assets/imagenes/Memonsters/GigaChad.png
+Descripcion: Average_Memonsters_Enjoyer!
+
