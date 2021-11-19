@@ -1,0 +1,4 @@
+"C:\Users\Agustin\AppData\Local\JetBrains\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - MinGW Makefiles" C:\memonsters-develop\memonsters-main
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/memonsters-develop/memonsters-main/cmake-build-debug
