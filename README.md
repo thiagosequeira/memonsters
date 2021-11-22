@@ -9,8 +9,6 @@ Memonsters es un juego de aventuras en 16-bits, basado en los antiguos Pokemon R
 
 ![octocat](https://github.com/brunocavazza.png?size=70) [Bruno Cavazza](https://github.com/brunocavazza)
 
-![octocat](https://github.com/thiagosequeira.png?size=70) [Thiago Sequeira](https://github.com/thiagosequeira)
-
 ![octocat](https://github.com/agustinragessi.png?size=70) [Agustin Ragessi](https://github.com/agustinragessi)
 
 ## Licencia de Assets utilizados
