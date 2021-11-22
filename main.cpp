@@ -64,7 +64,7 @@ int main() {
                 if (event.type == sf::Event::Closed)
                     window.close();
 
-                queue<int> que; //insertar esto afuera del press E
+                stack<int> que; //insertar esto afuera del press E
                 //Aca uso Pilas <---------
                 srand(time(NULL));
                 for (int i = 0; i < 10; i++){
@@ -81,8 +81,8 @@ int main() {
 
                         srand(time(NULL));
                         Memonster p;
-                        stack<Memonster> pilaMemonster;
-                        rng = que.front();
+                        queue<Memonster> pilaMemonster;
+                        rng = que.top();
                         que.pop();
                         num = 1 + rand()%100;
                         que.push(num);
@@ -349,22 +349,81 @@ int main() {
                             ifsl.close();
                         }
 
-							p.setCodigo(id);
-							p.setNombre(nombre);
-							p.setDescripcion(descripcion);
-							if(calidad==1){ // Comunes
-								p.setRareza("Comun");
-							}else if(calidad==2){ 
-								p.setRareza("Raro");
-							}else if(calidad==3){ 
-								p.setRareza("Epico");
-							}else if(calidad==4){ 			
-								p.setRareza("Legendario");
-							}
-							pilaMemonster.push(p);
+						
+						
+						
+						// En este punto se Cargan los memonsters Capturados <---------------------------------------------
+						int totalCapturados = 0, code = 0;
+						string name = " ", description = " ", rarity = " "; 
+						
+						
+						//Leer el archivo
+						ifstream lecap; //creo un objeto de la libreria ifstream
+						lecap.open("MemonstersCapturados.txt"); //abro el archivo
+						
+						if (lecap.is_open()){
+							lecap >> trash;
+							lecap >> totalCapturados;
 							
-							p=pilaMemonster.top();
-							cout<<"--------\nCodigo:"<<p.getCodigo()<<"\nNombre: "<<p.getNombre()<<"\nDescripcion: "<<p.getDescripcion()<<"\nRareza: "<<p.getRareza()<<"\n--------\n"<<endl;
+							for(int i=0; i<totalCapturados;i++){
+								
+								lecap >> trash;
+								lecap >> code;
+								p.setCodigo(code);
+								
+								lecap >> trash;
+								lecap >> name;
+								p.setNombre(name);
+								
+								lecap >> trash;
+								lecap >> description;
+								p.setDescripcion(descripion);
+								
+								lecap >> trash;
+								lecap >> rarity; 
+								p.setRareza(rarity);
+								
+								pilaMemonster.push(p);
+								
+							}
+							
+							
+							
+						}
+						lecap.close(); 
+						
+						
+						
+						// En este punto se Guardan los memonsters Capturados <---------------------------------------------
+						p.setCodigo(id);
+						p.setNombre(nombre);
+						p.setDescripcion(descripcion);
+						if(calidad==1){ 
+							p.setRareza("Comun");
+						}else if(calidad==2){ 
+							p.setRareza("Raro");
+						}else if(calidad==3){ 
+							p.setRareza("Epico");
+						}else if(calidad==4){ 			
+							p.setRareza("Legendario");}
+						
+						pilaMemonster.push(p);
+						totalCapturados++;
+						
+						ofstream ofcap; //creo un objeto de la libreria ofstream
+						
+						ofcap.open("MemonstersCapturados.txt");
+						
+						
+						ofcap<<"Cantidad_Total: "<<totalCapturados<<"\n"<<endl;
+						for(int i=0; i<totalCapturados;i++){
+							p=pilaMemonster.front();
+							ofcap<<"ID: "<<p.getCodigo()<<"\nNombre: "<<p.getNombre()<<"\nDescripcion: "<<p.getDescripcion()<<"\nRareza: "<<p.getRareza()<<"\n\n";
+							cout<<"--------\nCodigo:"<<"\nNombre: "<<p.getNombre()<<"\nDescripcion: "<<p.getDescripcion()<<"\nRareza: "<<p.getRareza()<<"\n--------\n"<<endl;
+							pilaMemonster.pop();
+						}
+						ofcap.close(); 
+						
 							
 
                     }
